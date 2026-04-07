@@ -66,7 +66,7 @@ The following steps were performed during EDA:
   - `plotly.io`
   - `plotly.colors`  
 - Plotly templates: `pio.templates.default = 'plotly_white'`
-
+https://zaraks.github.io/e-commerce-Sales-analysis/html/e-commerce_data_analysis.html
 
 
 

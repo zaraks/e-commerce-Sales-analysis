@@ -1,4 +1,4 @@
-# E-commerce Store Data Analytics Project
+# E-commerce Store Data Analysis
 
 ## Overview
 This project performs a comprehensive analysis of an e-commerce store’s sales and profit data, containing over **10,000 entries**. The aim is to uncover insights on sales trends, product performance, and customer segments to support data-driven business decisions.
